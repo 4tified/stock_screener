@@ -1,4 +1,19 @@
 # stock_screener
 This is readme.
 
-I AM README! DO YOU HEAR ME!?
+This is to remind myself
+
+change a file, then:
+
+git add <file>
+
+check status with:
+git status
+
+then commit with:
+git commit
+
+then push with:
+git push
+
+
